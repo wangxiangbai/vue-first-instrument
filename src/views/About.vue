@@ -5,3 +5,15 @@
   </div>
 </template>
 
+<style scoped lang="less" >
+
+  @nice-blue: pink;
+  .about{
+    color:@nice-blue;
+  }
+</style>
+
+
+使用命令
+npm install -D less less-loader
+cnpm install vuex save
